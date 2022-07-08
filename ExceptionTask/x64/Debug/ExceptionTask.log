@@ -1,0 +1,13 @@
+﻿  ExceptionTask.cpp
+C:\Users\LEGION\source\repos\ExceptionTask\ExceptionTask\ExceptionTask.cpp(58,1): error C2678: ikili '==': '_Ty' türünde bir sol taraf işleneni alan hiçbir işleç bulunamadı (veya hiç kabul edilebilir dönüştürme yok)
+          with
+          [
+              _Ty=User
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\guiddef.h(192,15): message : 'bool operator ==(const GUID &,const GUID &)' olabilirdi
+C:\Users\LEGION\source\repos\ExceptionTask\ExceptionTask\ExceptionTask.cpp(58,1): message : '(_Ty, User)' bağımsız değişken listesi eşlenmeye çalışılırken
+          with
+          [
+              _Ty=User
+          ]
+C:\Users\LEGION\source\repos\ExceptionTask\ExceptionTask\ExceptionTask.cpp(107,13): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
