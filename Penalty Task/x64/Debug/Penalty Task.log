@@ -1,0 +1,101 @@
+﻿  Penalty Task.cpp
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(4,9): error C3646: '_owner': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(4,15): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(5,9): error C3646: '_model': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(5,15): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(6,9): error C3646: '_number': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(6,16): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(8,8): error C2143: sözdizimi hatası: ';' eksik ('<' öncesinde)
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(8,8): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(8,21): error C2238: ';' öncesinde beklenmeyen belirteçler
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(11,6): error C2061: sözdizimi hatası: tanımlayıcı 'string'
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(11,5): error C2535: 'Car::Car(void)': üye işlev önceden tanımlandı veya bildirildi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(10): message : 'Car::Car' bildirimine bakın
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(18,9): error C3646: 'getOwner': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(18,17): error C2059: sözdizimi hatası: '('
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(18,20): error C2334: '{' öncesinde beklenmeyen belirteçler; görünen işlev gövdesi atlanıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(19,9): error C3646: 'getModel': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(19,17): error C2059: sözdizimi hatası: '('
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(19,20): error C2334: '{' öncesinde beklenmeyen belirteçler; görünen işlev gövdesi atlanıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(20,9): error C3646: 'getNumber': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(20,18): error C2059: sözdizimi hatası: '('
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(20,21): error C2334: '{' öncesinde beklenmeyen belirteçler; görünen işlev gövdesi atlanıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(22,9): error C2143: sözdizimi hatası: ';' eksik ('<' öncesinde)
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(22,9): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(22,33): error C2334: '{' öncesinde beklenmeyen belirteçler; görünen işlev gövdesi atlanıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(23,16): error C2143: sözdizimi hatası: ';' eksik ('&' öncesinde)
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(23,16): error C2433: 'ostream': veri bildirimlerinde 'friend' kullanılamaz
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(23,16): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(23,61): error C2238: ';' öncesinde beklenmeyen belirteçler
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(12,3): error C2065: '_owner': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(12,12): error C2065: 'owner': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(13,3): error C2065: '_model': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(13,12): error C2065: 'model': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(14,3): error C2065: '_number': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(14,13): error C2065: 'number': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(15,11): error C2065: 'year': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(25,8): error C2143: sözdizimi hatası: ';' eksik ('&' öncesinde)
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(25,8): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(25,1): error C2086: 'int ostream': yeniden tanımlama
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(23): message : 'ostream' bildirimine bakın
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(25,28): error C2473: 'operator <<': işlev tanımı gibi görünüyor ancak hiçbir parametre listesi yok.
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(25,28): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(25,30): error C2065: 'output': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(25,38): error C2059: sözdizimi hatası: 'const'
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(25,54): error C2143: sözdizimi hatası: ';' eksik ('{' öncesinde)
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(25,54): error C2447: '{': işlev üstbilgisi eksik (eski tarzda biçimsel liste mi?)
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(5,9): error C3646: '_text': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(5,14): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(6,9): error C3646: '_datetime': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(6,18): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(8,9): error C3646: '_location': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(8,18): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(12,18): error C2061: sözdizimi hatası: tanımlayıcı 'string'
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(21,9): error C3646: 'getText': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(21,16): error C2059: sözdizimi hatası: '('
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(21,19): error C2334: '{' öncesinde beklenmeyen belirteçler; görünen işlev gövdesi atlanıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(22,9): error C3646: 'getDateTime': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(22,20): error C2059: sözdizimi hatası: '('
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(22,23): error C2334: '{' öncesinde beklenmeyen belirteçler; görünen işlev gövdesi atlanıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(24,9): error C3646: 'getLocation': bilinmeyen geçersiz kılma belirticisi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(24,20): error C2059: sözdizimi hatası: '('
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(24,23): error C2334: '{' öncesinde beklenmeyen belirteçler; görünen işlev gövdesi atlanıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(26,16): error C2143: sözdizimi hatası: ';' eksik ('&' öncesinde)
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(26,16): error C2433: 'ostream': veri bildirimlerinde 'friend' kullanılamaz
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(26,16): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(26,69): error C2238: ';' öncesinde beklenmeyen belirteçler
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(14,3): error C2065: '_text': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(14,11): error C2065: 'text': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(15,3): error C2065: '_datetime': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(15,15): error C2065: 'datetime': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(16,12): error C2065: 'price': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(17,3): error C2065: '_location': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(17,15): error C2065: 'location': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(29,8): error C2143: sözdizimi hatası: ';' eksik ('&' öncesinde)
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(29,8): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(29,1): error C2086: 'int ostream': yeniden tanımlama
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(23): message : 'ostream' bildirimine bakın
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(29,28): error C2473: 'operator <<': işlev tanımı gibi görünüyor ancak hiçbir parametre listesi yok.
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(29,28): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(29,10): error C2374: '<<': yeniden tanımlama; birden fazla başlatma
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(25): message : '<<' bildirimine bakın
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(29,30): error C2065: 'output': bildirimi yapılmamış tanımlayıcı
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(29,38): error C2059: sözdizimi hatası: 'const'
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(29,62): error C2143: sözdizimi hatası: ';' eksik ('{' öncesinde)
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty.h(29,62): error C2447: '{': işlev üstbilgisi eksik (eski tarzda biçimsel liste mi?)
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(11,44): error C2440: 'başlatılıyor': 'initializer list' - 'Car' dönüşümü yapılamıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(11,44): message : Kaynak türünü hiçbir oluşturucu alamadı veya oluşturucu aşırı yük çözümü belirsizdi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(12,54): error C2440: 'başlatılıyor': 'initializer list' - 'Car' dönüşümü yapılamıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(12,54): message : Kaynak türünü hiçbir oluşturucu alamadı veya oluşturucu aşırı yük çözümü belirsizdi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(13,45): error C2440: 'başlatılıyor': 'initializer list' - 'Car' dönüşümü yapılamıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(13,45): message : Kaynak türünü hiçbir oluşturucu alamadı veya oluşturucu aşırı yük çözümü belirsizdi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(14,80): error C2440: '<function-style-cast>': 'initializer list' - 'Penalty' dönüşümü yapılamıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(14,80): message : Kaynak türünü hiçbir oluşturucu alamadı veya oluşturucu aşırı yük çözümü belirsizdi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(15,81): error C2440: '<function-style-cast>': 'initializer list' - 'Penalty' dönüşümü yapılamıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(15,81): message : Kaynak türünü hiçbir oluşturucu alamadı veya oluşturucu aşırı yük çözümü belirsizdi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(16,81): error C2440: '<function-style-cast>': 'initializer list' - 'Penalty' dönüşümü yapılamıyor
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(16,81): message : Kaynak türünü hiçbir oluşturucu alamadı veya oluşturucu aşırı yük çözümü belirsizdi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(19,21): error C2872: '<<': belirsiz simge
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Car.h(25,10): message : 'int &<<' olabilirdi
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(19,21): message : veya       '<<'
+C:\Users\LEGION\source\repos\Penalty Task\Penalty Task\Penalty Task.cpp(19,21): fatal error C1903: önceki hatalardan kurtarılamıyor; derleme durduruluyor
