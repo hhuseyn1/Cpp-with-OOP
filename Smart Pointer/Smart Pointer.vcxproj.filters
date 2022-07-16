@@ -15,13 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Debtor 2.cpp">
+    <ClCompile Include="Smart Pointer.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Debtor.h">
-      <Filter>Kaynak Dosyalar</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

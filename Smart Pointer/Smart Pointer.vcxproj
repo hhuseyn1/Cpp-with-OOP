@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{de5562ea-e29d-42d4-b843-60c72d309b48}</ProjectGuid>
-    <RootNamespace>Debtor2</RootNamespace>
+    <ProjectGuid>{c404e06f-d2f8-4b63-a717-d4ee884da39e}</ProjectGuid>
+    <RootNamespace>SmartPointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,10 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Debtor 2.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Debtor.h" />
+    <ClCompile Include="Smart Pointer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
