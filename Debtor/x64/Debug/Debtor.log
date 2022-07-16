@@ -1,0 +1,19 @@
+﻿  Debtor.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\numeric(34,27): warning C4244: 'bağımsız değişken': '_Ty' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\LEGION\source\repos\Debtor\Debtor\Debtor.cpp(112): message : derlenen şablon işlevi '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Debtor>>>,int,main::<lambda_5>>(const _InIt,const _InIt,_Ty,_Fn)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Debtor>>>,
+              _Fn=main::<lambda_5>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\numeric(34,26): warning C4244: '=': 'float' - '_Ty' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+  Debtor.vcxproj -> C:\Users\LEGION\source\repos\Debtor\x64\Debug\Debtor.exe
